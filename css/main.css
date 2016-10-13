@@ -1,3 +1,10 @@
 html {
   font-family: "Bevan", cursive;
+  box-sizing: border-box;
+  background-color: #dbd6cf
+}
+
+header {
+  box-sizing: border-box;
+  background-color: #79756f
 }
